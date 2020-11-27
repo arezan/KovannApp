@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680447922517",
+    "firebase_url": "https://kovann-702bb.firebaseio.com",
+    "project_id": "kovann-702bb",
+    "storage_bucket": "kovann-702bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680447922517:android:dd8e2deea667e147df5fdc",
+        "android_client_info": {
+          "package_name": "com.example.kovann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680447922517-4vi9mdjq9mjfkagjp3hpuotpds1bumg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kovann",
+            "certificate_hash": "3194f64fe12f2bdc322edc00c7bb07ded014a15c"
+          }
+        },
+        {
+          "client_id": "680447922517-h9j0e7v5df06v21digq2sp8csab8hivq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoMUdQKK6mUEWg0TohS6AbIZ-fc4e3OHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680447922517-h9j0e7v5df06v21digq2sp8csab8hivq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
